@@ -47,6 +47,7 @@ nav{
 .nav-item:nth-child(2) {
     flex: 2;
     display: flex;
+    gap: 1.4em;
 }
 
 .nav-item:nth-child(2) p{
